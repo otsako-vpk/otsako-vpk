@@ -1,3 +1,5 @@
+![banner](https://github.com/otsako-vpk/otsako-vpk/raw/main/img/banner.webp)
+
 ## Hola, aloha, and hello.
 
 Name's Otsako. I do *mostly* all things tech-related.
